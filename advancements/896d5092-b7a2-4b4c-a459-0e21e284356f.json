@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-12-22 22:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2019-08-31 12:59:46 +0100"
@@ -74,6 +80,12 @@
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2020-07-13 01:15:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-12-22 22:51:35 +0000"
     },
     "done": true
   },
@@ -137,6 +149,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-12-22 22:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-12-17 19:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2020-07-13 01:16:07 +0100"
@@ -191,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2020-12-17 19:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2020-07-13 23:11:30 +0100"
@@ -224,6 +254,18 @@
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2020-07-13 01:16:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-12-13 23:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-12-18 15:53:38 +0000"
     },
     "done": true
   },
@@ -275,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-12-22 22:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2019-08-31 12:59:46 +0100"
@@ -308,6 +356,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-08-31 12:59:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-12 19:29:24 +0000"
     },
     "done": true
   },
@@ -353,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-12-22 22:51:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2018-12-29 17:09:29 +0000"
@@ -362,6 +422,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-08-31 12:59:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2020-12-22 18:35:24 +0000"
     },
     "done": true
   },
@@ -437,5 +503,5 @@
     },
     "done": true
   },
-  "DataVersion": 2580
+  "DataVersion": 2584
 }
